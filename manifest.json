@@ -1,11 +1,11 @@
 {
-    "name": "M. Amin Farshbaf web",
-    "short_name": "Amin's web",
+    "name": "web_project",
+    "short_name": "web_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "M. Amin Farshbaf Personal website.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
